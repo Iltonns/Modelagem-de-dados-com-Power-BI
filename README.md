@@ -2,6 +2,7 @@
 
 # 📊 Visão Geral
 Implementação de um modelo estrela (star schema) no Power BI para análise de desempenho comercial da Neves Store, permitindo:
+
 ✅ Análise de vendas e estoque com dados históricos
 ✅ KPIs estratégicos para tomada de decisão
 ✅ Relacionamentos flexíveis para análises temporais e geográficas
