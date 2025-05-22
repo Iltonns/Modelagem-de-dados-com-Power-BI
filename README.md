@@ -11,8 +11,10 @@ Implementação de um modelo estrela (star schema) no Power BI para análise de 
 
 # 🛠️ Ferramentas Utilizadas
 <div style="display: flex; gap: 10px;"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/DAX-FF9900?style=for-the-badge&logo=Power-BI&logoColor=white" alt="DAX"/> <img src="https://img.shields.io/badge/Power_Query-0066FF?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Power Query"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL Server"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel"/> </div>
-📂 Estrutura do Modelo Dimensional
-# 🌟 Tabelas de Dimensões (7)
+
+# 📂 Estrutura do Modelo Dimensional
+
+#🌟 Tabelas de Dimensões (7)
 Cliente (Geografia, Segmentação)
 
 Produto (Hierarquia: Categoria > Subcategoria)
