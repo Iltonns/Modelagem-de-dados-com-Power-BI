@@ -14,7 +14,7 @@ Implementação de um modelo estrela (star schema) no Power BI para análise de 
 
 # 📂 Estrutura do Modelo Dimensional
 
-#🌟 Tabelas de Dimensões (7)
+# 🌟 Tabelas de Dimensões (7)
 Cliente (Geografia, Segmentação)
 
 Produto (Hierarquia: Categoria > Subcategoria)
